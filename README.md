@@ -1,3 +1,9 @@
+```
+git submodule add https://github.com/EloiStree/2025_04_14_upm_ovni_ship_mesh.git Packages/2025_04_14_upm_ovni_ship_mesh
+```
+
+-------------
+
 # 2025_04_14_WheelShipForFun
 Accidently created a wheel that look like spaceship, so I saved it for the fun.
 ![image](https://github.com/user-attachments/assets/760c703b-a1e7-4098-a4da-3246c5dea2ba)
